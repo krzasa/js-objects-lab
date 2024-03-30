@@ -108,14 +108,14 @@ Exercise 9
 Solve Exercise 9 here:
 */
 
-/*
+
 for (let key in game.party){  //use for to access a nested obejects value  // for each party 
   
-      console.log(game.party[key].name);
+      // console.log(game.party[key].name);
   }
 
-  this code prints out all the party member names
-*/ 
+  //this code prints out all the party member names
+
 
 /*
 Exercise 10
