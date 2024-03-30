@@ -125,15 +125,15 @@ Exercise 10
 
 Solve Exercise 10 here:
 */
-/*
+
 for (let key in pokemon){  //use for to access a nested obejects value  // for each gym 
   
   if (pokemon[key].starter ===true) { // for each gym, go to difficulty AND if it's below 3 
-    console.log( pokemon[key].name);
+    // console.log( pokemon[key].name);
       
   }
 }
-*/
+
 
 /*
 Exercise 11
